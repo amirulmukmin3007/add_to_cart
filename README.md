@@ -1,4 +1,4 @@
-# flutter_test_app
+# add_to_cart
 
 Main Features:
 - Display Product List
@@ -18,4 +18,4 @@ Configurations:
 - Dart Version: 3.8.1
 
 APK Download Here:
-- (https://github.com/amirulmukmin3007/flutter_test_app/tree/main/apk/v1.0.0)
+- (https://github.com/amirulmukmin3007/add_to_cart/tree/main/apk/v1.0.0)
